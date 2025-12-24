@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Sapienza, University of Rome. Department of Computer, Control, and Management Engineering
-nav: true
+nav: false
 nav_order: 1
 
 profile:
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Angelo Casciani, a PhD student in the [National PhD in Artificial Intelligence](https://phd.uniroma1.it/web/NATIONAL-PHD-IN-ARTIFICIAL-INTELLIGENCE_nD3764_EN.aspx) at the [Department of Computer, Control, and Management Engineering “Antonio Ruberti”](https://www.diag.uniroma1.it/) at [Sapienza, University of Rome](https://www.uniroma1.it/).
+I am Angelo Casciani, a PhD student in the [National PhD in Artificial Intelligence](https://phd.uniroma1.it/web/NATIONAL-PHD-IN-ARTIFICIAL-INTELLIGENCE_nD3764_EN.aspx).
 
 My research interests encompass:
 - Artificial Intelligence (AI):
