@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Angelo Casciani",
-    "label": "PhD Student in Artificial Intelligence",
+    "label": "",
     "image": "",
-    "email": "casciani@diag.uniroma1.it",
+    "email": "",
     "phone": "",
     "url": "https://angelo-casciani.github.io",
     "summary": "PhD student in the National PhD in Artificial Intelligence at Sapienza, University of Rome",
@@ -21,9 +21,9 @@
       "name": "Department of Computer Science, University of Oxford",
       "position": "Visiting PhD Student",
       "location": "Oxford, United Kingdom",
-      "startDate": "2025-04-01",
-      "endDate": "2025-07-31",
-      "summary": "Research stay at the Department of Computer Science"
+      "startDate": "2025-04",
+      "endDate": "2025-07",
+      "summary": "Research stay at the Department of Computer Science under the supervision of Prof. [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/)."
     }
   ],
   "education": [
@@ -31,7 +31,7 @@
       "institution": "Sapienza, University of Rome",
       "location": "Rome, Italy",
       "studyType": "National PhD in Artificial Intelligence",
-      "startDate": "2023-11-01",
+      "startDate": "2023-11",
       "endDate": "",
       "score": ""
     },
@@ -39,8 +39,8 @@
       "institution": "Sapienza, University of Rome",
       "location": "Rome, Italy",
       "studyType": "Professional Qualification as Information Engineer",
-      "startDate": "2023-11-01",
-      "endDate": "2023-11-01",
+      "startDate": "2023-11",
+      "endDate": "2023-11",
       "score": ""
     },
     {
@@ -48,8 +48,8 @@
       "location": "Rome, Italy",
       "area": "Engineering in Computer Science",
       "studyType": "Master's Degree",
-      "startDate": "2021-09-01",
-      "endDate": "2023-10-01",
+      "startDate": "2021-09",
+      "endDate": "2023-10",
       "score": "110/110 cum Laude",
       "courses": ["Thesis: Design and Implementation of a Big Data Pipeline to Simulate the Production Planning of a Manufacturing Company"]
     },
@@ -58,8 +58,8 @@
       "location": "L'Aquila, Italy",
       "area": "Information Engineering",
       "studyType": "Bachelor's Degree",
-      "startDate": "2018-09-01",
-      "endDate": "2021-07-01",
+      "startDate": "2018-09",
+      "endDate": "2021-07",
       "score": "110/110 cum Laude",
       "courses": ["Thesis: Study of algorithms for multiprocessor scheduling in Linux environment"]
     },
@@ -67,8 +67,8 @@
       "institution": "Liceo Scientifico Carlo Jucci",
       "location": "Rieti, Italy",
       "studyType": "Scientific High School Diploma",
-      "startDate": "2013-09-01",
-      "endDate": "2018-06-01",
+      "startDate": "2013-09",
+      "endDate": "2018-06",
       "score": "100/100"
     }
   ]

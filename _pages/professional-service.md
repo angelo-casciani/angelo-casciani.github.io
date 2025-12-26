@@ -17,9 +17,9 @@ nav_order: 4
 
 ### Journals
 
-- **ACM Computing Surveys (ACM CSUR)**
-- **Computing**
-- **Data & Knowledge Engineering (DKE)**
+- ACM Computing Surveys (**ACM CSUR**)
+- Computing
+- Data & Knowledge Engineering (**DKE**)
 
 ---
 
