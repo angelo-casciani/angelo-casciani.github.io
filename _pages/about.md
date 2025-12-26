@@ -12,8 +12,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room B221</p>
+    <p>Department of Computer, Control, and Management Engineering (DIAG)</p>
     <p>Via Ariosto, 25</p>
-    <p>Department of Computer, Control, and Management Engineering (DIAG) "Antonio Ruberti"</p>
     <p>00185 Rome (RM), Italy</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
