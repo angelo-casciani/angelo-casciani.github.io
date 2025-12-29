@@ -11,7 +11,7 @@ nav_order: 3
 
 #### Sapienza University of Rome
 **Teaching Assistant** for [Planning and Reasoning](https://sites.google.com/uniroma1.it/pr2526/home) (6 CFU)  
-Master's degree in Artificial Intelligence and Robotics
+Master's degree in [Artificial Intelligence and Robotics](https://corsidilaurea.uniroma1.it/it/course/33514)
 
 ---
 
@@ -19,11 +19,11 @@ Master's degree in Artificial Intelligence and Robotics
 
 #### Sapienza University of Rome
 **Teaching Assistant** for [Planning and Reasoning](https://sites.google.com/uniroma1.it/pr-2425) (6 CFU)  
-Master's degree in Artificial Intelligence and Robotics
+Master's degree in [Artificial Intelligence and Robotics](https://corsidilaurea.uniroma1.it/it/course/33514)
 
 #### Lazio Digital ITS Academy
 **Lecturer** for *Metodologie di Analisi e Progettazione del Software (UML)*  
-[Developer course](https://www.laziodigital.it/developer/)
+[Developer](https://www.laziodigital.it/developer/) course
 
 ---
 
@@ -34,4 +34,4 @@ Master's degree in Artificial Intelligence and Robotics
 [Cloud Developer](https://www.laziodigital.it/cloud-developer/), [Developer](https://www.laziodigital.it/developer/), and [Game Developer](https://www.laziodigital.it/game-developer/) courses
 
 **Lecturer** for *Database (SQL)*  
-[Cyber Security Expert course](https://www.laziodigital.it/cyber/)
+[Cyber Security Expert](https://www.laziodigital.it/cyber/) course
