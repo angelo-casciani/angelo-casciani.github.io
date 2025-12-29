@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Angelo Casciani, a PhD student in the [National PhD in Artificial Intelligence](https://phd.uniroma1.it/web/NATIONAL-PHD-IN-ARTIFICIAL-INTELLIGENCE_nD3764_EN.aspx), supervised by [Andrea Marrella](https://www.diag.uniroma1.it/marrella/) and [Marta Cimitile](https://www.unitelmasapienza.it/marta-cimitile/)
+I am Angelo Casciani, a PhD student in the [National PhD in Artificial Intelligence](https://phd.uniroma1.it/web/NATIONAL-PHD-IN-ARTIFICIAL-INTELLIGENCE_nD3764_EN.aspx), supervised by [Andrea Marrella](https://www.diag.uniroma1.it/marrella/) and [Marta Cimitile](https://www.unitelmasapienza.it/marta-cimitile/).
 
 My research interests encompass:
 - **Artificial Intelligence** (**AI**):
