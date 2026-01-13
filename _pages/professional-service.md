@@ -20,6 +20,7 @@ nav_order: 4
 - ACM Computing Surveys (**ACM CSUR**)
 - Computing
 - Data & Knowledge Engineering (**DKE**)
+- Information Systems
 
 ---
 
