@@ -18,6 +18,7 @@ nav_order: 4
 ### Journals
 
 - ACM Computing Surveys (**ACM CSUR**)
+- Business & Information Systems Engineering (**BISE**)
 - Computing
 - Data & Knowledge Engineering (**DKE**)
 - Information Systems
@@ -28,6 +29,7 @@ nav_order: 4
 
 ### Conferences
 
+- **ICAPS 2026 (Shadow PC)** - The 36th International Conference on Automated Planning and Scheduling
 - **CAiSE 2026** - 38th International Conference on Advanced Information Systems Engineering
 - **EDOC 2025** - 29th International Conference on Enterprise Design, Operations, and Computing
 - **ECAI 2025** - 28th European Conference on Artificial Intelligence
