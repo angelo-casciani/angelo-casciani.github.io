@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-02-02'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
-    citations: 23
+    citations: 24
     title: Conversational systems for AI-augmented business process management
     year: '2024'
   742nmiYAAAAJ:4MWp96NkSFoC:
@@ -18,7 +18,7 @@ papers:
     title: Integrating LLMs and Symbolic Reasoning for Framed Autonomy in AI-Augmented Business Process Management
     year: '2025'
   742nmiYAAAAJ:VLnqNzywnoUC:
-    citations: 7
+    citations: 8
     title: A preliminary study on Business Process-aware Large Language Models
     year: '2024'
   742nmiYAAAAJ:Z5m8FVwuT1cC:
@@ -26,7 +26,7 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 30
+    citations: 32
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
@@ -42,7 +42,7 @@ papers:
     title: Conversational AI for Framed Autonomy in AI-augmented Business Process Management
     year: '2024'
   742nmiYAAAAJ:vbGhcppDl1QC:
-    citations: 1
+    citations: 2
     title: Enhancing next activity prediction in process mining with Retrieval-Augmented Generation
     year: '2025'
   742nmiYAAAAJ:z_wVstp3MssC:
