@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-09'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
-    citations: 24
+    citations: 25
     title: Conversational systems for AI-augmented business process management
     year: '2024'
   742nmiYAAAAJ:4MWp96NkSFoC:
@@ -26,7 +26,7 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 32
+    citations: 30
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
