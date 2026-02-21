@@ -29,7 +29,8 @@ nav_order: 4
 
 ### Conferences
 
-- **ICAPS 2026 (Shadow PC)** - The 36th International Conference on Automated Planning and Scheduling
+- **RCIS 2026** - 20th Research Challenges in Information Science
+- **ICAPS 2026 (Shadow PC)** - 36th International Conference on Automated Planning and Scheduling
 - **CAiSE 2026** - 38th International Conference on Advanced Information Systems Engineering
 - **EDOC 2025** - 29th International Conference on Enterprise Design, Operations, and Computing
 - **ECAI 2025** - 28th European Conference on Artificial Intelligence
