@@ -22,6 +22,7 @@ nav_order: 4
 - Computing
 - Data & Knowledge Engineering (**DKE**)
 - Information Systems
+- Transactions on Service Computing
 
 ---
 
