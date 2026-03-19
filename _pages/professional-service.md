@@ -21,6 +21,7 @@ nav_order: 4
 - Business & Information Systems Engineering (**BISE**)
 - Computing
 - Data & Knowledge Engineering (**DKE**)
+- Engineering Applications of Artificial Intelligence (**EAAI**)
 - Information Systems
 - Transactions on Service Computing
 
