@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-04-06'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
-    citations: 27
+    citations: 30
     title: Conversational systems for AI-augmented business process management
     year: '2024'
   742nmiYAAAAJ:4MWp96NkSFoC:
@@ -18,9 +18,17 @@ papers:
     title: Integrating LLMs and Symbolic Reasoning for Framed Autonomy in AI-Augmented Business Process Management
     year: '2025'
   742nmiYAAAAJ:EYYDruWGBe4C:
-    citations: 0
+    citations: 1
     title: Enabling natural language analysis for object-centric event logs
     year: '2026'
+  742nmiYAAAAJ:ILKRHgRFtOwC:
+    citations: 0
+    title: Formal semantics for knowledge representation and automated reasoning in BPMN process models
+    year: '2026'
+  742nmiYAAAAJ:L7CI7m0gUJcC:
+    citations: 0
+    title: A Framework for Enhanced Decision-Making Support in Production Planning through Event Data Analysis
+    year: '2025'
   742nmiYAAAAJ:VLnqNzywnoUC:
     citations: 8
     title: A preliminary study on Business Process-aware Large Language Models
@@ -30,13 +38,17 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 35
+    citations: 37
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
-    citations: 1
+    citations: 4
     title: A context-aware framework to support decision-making in production planning
     year: '2024'
+  742nmiYAAAAJ:hMsQuOkrut0C:
+    citations: 0
+    title: 'Agentic Business Process Management: A Research Manifesto'
+    year: '2026'
   742nmiYAAAAJ:p__nRnzSRKYC:
     citations: 0
     title: A Requirements Engineering-Driven Methodology for Planning Domain Generation via LLMs with Invariant-Based Refinement
