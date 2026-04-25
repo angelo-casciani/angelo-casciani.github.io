@@ -17,13 +17,19 @@
     "profiles": []
   },
   "work": [
+        {
+      "name": "Institut für Informatik, Humboldt-Universität zu Berlin",
+      "position": "Visiting PhD Student",
+      "location": "Berlin, Germany",
+      "startDate": "2026-01",
+      "endDate": "2026-05"
+    },
     {
       "name": "Department of Computer Science, University of Oxford",
       "position": "Visiting PhD Student",
       "location": "Oxford, United Kingdom",
       "startDate": "2025-04",
-      "endDate": "2025-07",
-      "summary": "Research stay at the Department of Computer Science under the supervision of Prof. [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/)."
+      "endDate": "2025-07"
     }
   ],
   "education": [
