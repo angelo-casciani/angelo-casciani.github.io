@@ -20,6 +20,7 @@ nav_order: 4
 
 - ACM Computing Surveys (**ACM CSUR**)
 - Business & Information Systems Engineering (**BISE**)
+- Computer Science Review
 - Computing
 - Data & Knowledge Engineering (**DKE**)
 - Engineering Applications of Artificial Intelligence (**EAAI**)
