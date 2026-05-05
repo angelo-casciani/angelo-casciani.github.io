@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-04'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
-    citations: 32
+    citations: 33
     title: Conversational systems for AI-augmented business process management
     year: '2024'
   742nmiYAAAAJ:4MWp96NkSFoC:
@@ -14,7 +14,7 @@ papers:
     title: The role of trust in AI-augmented business process management systems
     year: '2024'
   742nmiYAAAAJ:BwyfMAYsbu0C:
-    citations: 0
+    citations: 1
     title: Integrating LLMs and Symbolic Reasoning for Framed Autonomy in AI-Augmented Business Process Management
     year: '2025'
   742nmiYAAAAJ:EYYDruWGBe4C:
@@ -30,7 +30,7 @@ papers:
     title: A Framework for Enhanced Decision-Making Support in Production Planning through Event Data Analysis
     year: '2025'
   742nmiYAAAAJ:VLnqNzywnoUC:
-    citations: 8
+    citations: 9
     title: A preliminary study on Business Process-aware Large Language Models
     year: '2024'
   742nmiYAAAAJ:Z5m8FVwuT1cC:
@@ -38,7 +38,7 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 39
+    citations: 40
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
@@ -46,7 +46,7 @@ papers:
     title: A context-aware framework to support decision-making in production planning
     year: '2024'
   742nmiYAAAAJ:hMsQuOkrut0C:
-    citations: 0
+    citations: 1
     title: 'Agentic Business Process Management: A research manifesto'
     year: '2026'
   742nmiYAAAAJ:p__nRnzSRKYC:
@@ -54,14 +54,14 @@ papers:
     title: A Requirements Engineering-Driven Methodology for Planning Domain Generation via LLMs with Invariant-Based Refinement
     year: '2025'
   742nmiYAAAAJ:uJ-U7cs_P_0C:
-    citations: 1
+    citations: 2
     title: Conversational AI for Framed Autonomy in AI-augmented Business Process Management
     year: '2024'
   742nmiYAAAAJ:vbGhcppDl1QC:
-    citations: 2
+    citations: 3
     title: Enhancing next activity prediction in process mining with Retrieval-Augmented Generation
     year: '2025'
   742nmiYAAAAJ:z_wVstp3MssC:
-    citations: 1
+    citations: 2
     title: An End-To-End Execution of a Logistic Process in an AI-Augmented Business Process Management System
     year: '2024'
