@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-22'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
-    citations: 34
+    citations: 35
     title: Conversational systems for AI-augmented business process management
     year: '2024'
   742nmiYAAAAJ:4MWp96NkSFoC:
@@ -10,7 +10,7 @@ papers:
     title: A Conversational Framework for Faithful Multi-perspective Analysis of Production Systems
     year: '2025'
   742nmiYAAAAJ:BUYA1_V_uYcC:
-    citations: 3
+    citations: 4
     title: The role of trust in AI-augmented business process management systems
     year: '2024'
   742nmiYAAAAJ:BwyfMAYsbu0C:
@@ -38,7 +38,7 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 44
+    citations: 45
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
@@ -46,8 +46,8 @@ papers:
     title: A context-aware framework to support decision-making in production planning
     year: '2024'
   742nmiYAAAAJ:hMsQuOkrut0C:
-    citations: 1
-    title: 'Agentic Business Process Management: A research manifesto'
+    citations: 2
+    title: 'Agentic business process management: A research manifesto'
     year: '2026'
   742nmiYAAAAJ:p__nRnzSRKYC:
     citations: 1
