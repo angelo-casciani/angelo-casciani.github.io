@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-17'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
-    citations: 35
+    citations: 38
     title: Conversational systems for AI-augmented business process management
     year: '2024'
   742nmiYAAAAJ:4MWp96NkSFoC:
-    citations: 0
+    citations: 1
     title: A Conversational Framework for Faithful Multi-perspective Analysis of Production Systems
     year: '2025'
   742nmiYAAAAJ:BUYA1_V_uYcC:
@@ -25,6 +25,10 @@ papers:
     citations: 1
     title: Formal semantics for knowledge representation and automated reasoning in BPMN process models
     year: '2026'
+  742nmiYAAAAJ:KUbvn5osdkgC:
+    citations: 0
+    title: Predictive Process Monitoring via Automated Planning
+    year: '2026'
   742nmiYAAAAJ:L7CI7m0gUJcC:
     citations: 0
     title: A Framework for Enhanced Decision-Making Support in Production Planning through Event Data Analysis
@@ -38,27 +42,31 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 45
+    citations: 51
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
-    citations: 4
+    citations: 7
     title: A context-aware framework to support decision-making in production planning
     year: '2024'
+  742nmiYAAAAJ:g3aElNc5_aQC:
+    citations: 0
+    title: 'FIDES: A Neuro-Symbolic Conversational Tool for Faithful Production Process Intelligence'
+    year: '2026'
   742nmiYAAAAJ:hMsQuOkrut0C:
-    citations: 2
+    citations: 3
     title: 'Agentic business process management: A research manifesto'
     year: '2026'
   742nmiYAAAAJ:p__nRnzSRKYC:
     citations: 1
-    title: A Requirements Engineering-Driven Methodology for Planning Domain Generation via LLMs with Invariant-Based Refinement
+    title: A requirements engineering-driven methodology for planning domain generation via llms with invariant-based refinement
     year: '2025'
   742nmiYAAAAJ:uJ-U7cs_P_0C:
     citations: 2
     title: Conversational AI for Framed Autonomy in AI-augmented Business Process Management
     year: '2024'
   742nmiYAAAAJ:vbGhcppDl1QC:
-    citations: 4
+    citations: 5
     title: Enhancing next activity prediction in process mining with Retrieval-Augmented Generation
     year: '2025'
   742nmiYAAAAJ:z_wVstp3MssC:
