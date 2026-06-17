@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-invited-talks-and-tutorials",
-          title: "invited talks and tutorials",
+        },{id: "nav-talks-amp-tutorials",
+          title: "talks&amp;tutorials",
           description: "invited talks and tutorials at academic conferences.",
           section: "Navigation",
           handler: () => {
