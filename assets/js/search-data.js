@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-invited-talks-and-tutorials",
+          title: "invited talks and tutorials",
+          description: "invited talks and tutorials at academic conferences.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/invited-talks/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Teaching activities and courses.",
