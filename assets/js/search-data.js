@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-talks-amp-tutorials",
           title: "talks&amp;tutorials",
-          description: "invited talks and tutorials at academic conferences.",
+          description: "invited talks and tutorials at conferences.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/invited-talks/";
+            window.location.href = "/talks/";
           },
         },{id: "nav-teaching",
           title: "teaching",
