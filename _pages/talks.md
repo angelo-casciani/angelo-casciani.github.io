@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /invited-talks/
+permalink: /talks/
 title: talks&tutorials
-description: invited talks and tutorials at academic conferences.
+description: invited talks and tutorials at conferences.
 nav: true
 nav_order: 3
 ---
