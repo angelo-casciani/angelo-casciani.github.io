@@ -33,6 +33,7 @@ nav_order: 5
 
 ### Conferences
 
+- **CBI&EDOC 2026** - 28th Int. Conf. on Business Informatics and 30th Int. Conf. on Enterprise Design, Operations, and Computing
 - **RCIS 2026** - 20th Research Challenges in Information Science
 - **ICAPS 2026 (Shadow PC)** - 36th International Conference on Automated Planning and Scheduling
 - **CAiSE 2026** - 38th International Conference on Advanced Information Systems Engineering
