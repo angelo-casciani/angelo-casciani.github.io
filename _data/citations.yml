@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-24'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
     citations: 38
@@ -10,7 +10,7 @@ papers:
     title: A Conversational Framework for Faithful Multi-perspective Analysis of Production Systems
     year: '2025'
   742nmiYAAAAJ:BUYA1_V_uYcC:
-    citations: 4
+    citations: 5
     title: The role of trust in AI-augmented business process management systems
     year: '2024'
   742nmiYAAAAJ:BwyfMAYsbu0C:
@@ -34,7 +34,7 @@ papers:
     title: A Framework for Enhanced Decision-Making Support in Production Planning through Event Data Analysis
     year: '2025'
   742nmiYAAAAJ:VLnqNzywnoUC:
-    citations: 10
+    citations: 11
     title: A preliminary study on Business Process-aware Large Language Models
     year: '2024'
   742nmiYAAAAJ:Z5m8FVwuT1cC:
@@ -42,11 +42,11 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 51
+    citations: 54
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
-    citations: 7
+    citations: 8
     title: A context-aware framework to support decision-making in production planning
     year: '2024'
   742nmiYAAAAJ:g3aElNc5_aQC:
@@ -62,14 +62,14 @@ papers:
     title: A requirements engineering-driven methodology for planning domain generation via llms with invariant-based refinement
     year: '2025'
   742nmiYAAAAJ:uJ-U7cs_P_0C:
-    citations: 2
+    citations: 3
     title: Conversational AI for Framed Autonomy in AI-augmented Business Process Management
     year: '2024'
   742nmiYAAAAJ:vbGhcppDl1QC:
-    citations: 5
+    citations: 6
     title: Enhancing next activity prediction in process mining with Retrieval-Augmented Generation
     year: '2025'
   742nmiYAAAAJ:z_wVstp3MssC:
-    citations: 2
+    citations: 3
     title: An End-To-End Execution of a Logistic Process in an AI-Augmented Business Process Management System
     year: '2024'
