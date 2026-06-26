@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-26'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
     citations: 38
@@ -42,7 +42,7 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 54
+    citations: 55
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
@@ -59,7 +59,7 @@ papers:
     year: '2026'
   742nmiYAAAAJ:p__nRnzSRKYC:
     citations: 1
-    title: A requirements engineering-driven methodology for planning domain generation via llms with invariant-based refinement
+    title: A Requirements Engineering-Driven Methodology for Planning Domain Generation via LLMs with Invariant-Based Refinement
     year: '2025'
   742nmiYAAAAJ:uJ-U7cs_P_0C:
     citations: 3
