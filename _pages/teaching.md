@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching activities and courses.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## Academic Year 2025-2026

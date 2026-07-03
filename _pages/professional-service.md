@@ -4,13 +4,13 @@ permalink: /professional-service/
 title: professional service
 description: Academic service and reviewing activities.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Program Committee Membership
 
-- **ACM SAC 2026**, Special Track on Knowledge and Natural Language Processing (KNLP 2026)
 - **ICTAI 2026**, 38th IEEE International Conference on Tools with Artificial Intelligence
+- **ACM SAC 2026**, Special Track on Knowledge and Natural Language Processing (KNLP 2026)
 
 ---
 

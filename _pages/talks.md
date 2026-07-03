@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks&tutorials
 description: Invited talks and tutorials at conferences.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## Tutorials
