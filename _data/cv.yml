@@ -2,6 +2,9 @@
   type: time_table
   contents:
     - title: Visiting PhD Student
+      institution: Institut für Informatik, Humboldt-Universität zu Berlin, Germany
+      year: January 2026 - May 2026
+    - title: Visiting PhD Student
       institution: Department of Computer Science, University of Oxford, United Kingdom
       year: April 2025 - July 2025
 
