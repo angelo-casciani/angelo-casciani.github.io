@@ -10,7 +10,7 @@ nav_order: 6
 ## Program Committee Membership
 
 - **ICTAI 2026**, 38th IEEE International Conference on Tools with Artificial Intelligence
-- **ACM SAC 2026**, Special Track on Knowledge and Natural Language Processing (KNLP 2026)
+- **ACM SAC**, Special Track on Knowledge and Natural Language Processing (KNLP): 2026, 2027
 
 ---
 
