@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-09-04'
 papers:
   742nmiYAAAAJ:-_dYPAW6P2MC:
     citations: 41
@@ -38,7 +38,7 @@ papers:
     title: Developing Neuro-Symbolic Conversational Systems for Reliable Multi-Perspective Production Process Intelligence
     year: Unknown Year
   742nmiYAAAAJ:VLnqNzywnoUC:
-    citations: 12
+    citations: 14
     title: A preliminary study on Business Process-aware Large Language Models
     year: '2024'
   742nmiYAAAAJ:Z5m8FVwuT1cC:
@@ -46,7 +46,7 @@ papers:
     title: 4.3 Human-Robot Interaction in Relationship to Trust
     year: Unknown Year
   742nmiYAAAAJ:evX43VCCuoAC:
-    citations: 58
+    citations: 61
     title: 'Conversing with business process-aware Large Language Models: the BPLLM framework'
     year: '2024'
   742nmiYAAAAJ:fEOibwPWpKIC:
@@ -58,7 +58,7 @@ papers:
     title: 'FIDES: A Neuro-Symbolic Conversational Tool for Faithful Production Process Intelligence'
     year: '2026'
   742nmiYAAAAJ:hMsQuOkrut0C:
-    citations: 9
+    citations: 12
     title: 'Agentic business process management: a research manifesto'
     year: '2026'
   742nmiYAAAAJ:p__nRnzSRKYC:
@@ -74,7 +74,7 @@ papers:
     title: Conversational AI for Framed Autonomy in AI-augmented Business Process Management
     year: '2024'
   742nmiYAAAAJ:vbGhcppDl1QC:
-    citations: 11
+    citations: 12
     title: Enhancing next activity prediction in process mining with Retrieval-Augmented Generation
     year: '2025'
   742nmiYAAAAJ:z_wVstp3MssC:
