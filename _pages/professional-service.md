@@ -9,6 +9,7 @@ nav_order: 6
 
 ## Program Committee Membership
 
+- **ICPM 2027 - Demo Track**, 8th International Conference on Process Mining
 - **GenAI4PM 2027**, 3rd International Workshop on Generative AI for Process Mining, co-located with ICPM 2027
 - **ACM SAC**, Special Track on Knowledge and Natural Language Processing (KNLP): 2026, 2027
 - **ICTAI 2026**, 38th IEEE International Conference on Tools with Artificial Intelligence
@@ -23,6 +24,7 @@ nav_order: 6
 - Business & Information Systems Engineering (**BISE**)
 - Computer Science Review
 - Computing
+- Discover Computing
 - Data & Knowledge Engineering (**DKE**)
 - Engineering Applications of Artificial Intelligence (**EAAI**)
 - Information Systems
