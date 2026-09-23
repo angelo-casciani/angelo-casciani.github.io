@@ -7,6 +7,14 @@ nav: true
 nav_order: 5
 ---
 
+## Academic Year 2026-2027
+
+#### Sapienza University of Rome
+**Teaching Assistant** for [Planning and Reasoning](https://sites.google.com/uniroma1.it/pr2627/home) (6 CFU)  
+Master's degree in [Artificial Intelligence and Robotics](https://corsidilaurea.uniroma1.it/it/course/33514)
+
+---
+
 ## Academic Year 2025-2026
 
 #### Sapienza University of Rome
