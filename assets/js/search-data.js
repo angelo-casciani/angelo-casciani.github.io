@@ -83,7 +83,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-published-in-business-amp-amp-information-systems-engineering-bise-exploring-human-trust-in-software-robots-for-robotic-process-automation",
           title: 'New paper published in Business &amp;amp;amp; Information Systems Engineering (BISE): Exploring Human Trust...',
           description: "",
-          section: "News",},{id: "news-new-paper-published-in-bpm-2026-customizable-declarative-process-specification-scenarios-via-automated-planning-presented-two-papers-at-the-bpm-2026-journal-first-track-and-enhancing-next-activity-prediction-in-process-mining-with-retrieval-augmented-generation-and-formal-semantics-for-knowledge-representation-and-automated-reasoning-in-bpmn-process-models",
+          section: "News",},{id: "news-new-paper-published-in-bpm-2026-customizable-declarative-process-specification-scenarios-via-automated-planning-presented-two-papers-at-the-bpm-2026-journal-first-track-enhancing-next-activity-prediction-in-process-mining-with-retrieval-augmented-generation-and-formal-semantics-for-knowledge-representation-and-automated-reasoning-in-bpmn-process-models",
           title: 'New paper published in BPM 2026, Customizable Declarative Process Specification Scenarios via Automated...',
           description: "",
           section: "News",},{
