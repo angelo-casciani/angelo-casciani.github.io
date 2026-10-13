@@ -17,6 +17,13 @@
     "profiles": []
   },
   "work": [
+    {
+      "name": "SAP SE",
+      "position": "Visiting Researcher on AI Agents for Business Process Management",
+      "location": "Berlin, Germany",
+      "startDate": "2026-02",
+      "endDate": "2026-04"
+    },
         {
       "name": "Institut für Informatik, Humboldt-Universität zu Berlin",
       "position": "Visiting PhD Student",
@@ -38,7 +45,7 @@
       "location": "Rome, Italy",
       "studyType": "National PhD in Artificial Intelligence",
       "startDate": "2023-11",
-      "endDate": "",
+      "endDate": "2026-10",
       "score": ""
     },
     {

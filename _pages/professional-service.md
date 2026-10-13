@@ -27,6 +27,7 @@ nav_order: 6
 - Discover Computing
 - Data & Knowledge Engineering (**DKE**)
 - Engineering Applications of Artificial Intelligence (**EAAI**)
+- Frontiers in Artificial Intelligence
 - Information Systems
 - Transactions on Service Computing
 
